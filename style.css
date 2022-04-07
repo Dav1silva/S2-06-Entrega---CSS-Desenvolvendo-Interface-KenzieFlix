@@ -90,17 +90,17 @@ main{
 .boxItem{
 	overflow:hidden;
     width: 160px;
-    height: 230px;
+    height: 175px;
     background-color: transparent;
     border-radius: 8px;
 }
 
-/* .boxItem:hover{
+.boxItem:hover{
 	
     box-shadow: 26px 10px 112px -2px rgba(238,238,34,0.4);
 -webkit-box-shadow: 26px 10px 112px -2px rgba(238,238,34,0.4);
 -moz-box-shadow: 26px 10px 112px -2px rgba(238,238,34,0.4);
-} */
+}
 li{
 	width: 150px;
 }
@@ -111,12 +111,9 @@ img{
 	border-radius: 10px;
 }
 
-boxItem
 
-.boxItem:hover{
-	
-	width: 156px;
-}
+
+
 
 
 
